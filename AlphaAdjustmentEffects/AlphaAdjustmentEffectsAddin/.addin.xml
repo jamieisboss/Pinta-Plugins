@@ -5,7 +5,7 @@
 		<Name>Alpha Adjustment Effects</Name>
 		<Description>A collection of simple effects to manipulate the alpha channel.</Description>
 		<Author>Stefan Moebius</Author>
-		<Url>https://github.com/codeprof/Pinta-Plugins/AlphaAdjustmentEffects</Url>
+		<Url>https://github.com/codeprof/Pinta-Plugins</Url>
 		<Name locale="de">Alpha Adjustment Effekte</Name>
 		<Description locale="de">Eine Sammlung einfacher Effekte zur Manipulation des Alphakanals.</Description>
 

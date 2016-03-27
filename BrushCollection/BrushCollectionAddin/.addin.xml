@@ -5,7 +5,7 @@
 		<Name>Brush Collection</Name>
 		<Description>A collection of additional brushes for pinta. It contains brushes to blur, sharpen, inteligently erase and tone the image.</Description>
 		<Author>Stefan Moebius</Author>
-		<Url>https://github.com/codeprof/Pinta-Plugins/BrushCollection</Url>
+		<Url>https://github.com/codeprof/Pinta-Plugins</Url>
 		<Name locale="de">Brush Sammlung</Name>
 		<Description locale="de">Eine Sammlung zusätzlicher Brushes für Pinta. Sie beinhaltet Brushes zur verwaschen, schärfen, intelligentem löschen und einfärben von Bildern</Description>
 

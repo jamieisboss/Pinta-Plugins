@@ -5,7 +5,7 @@
 		<Name>Dither Effect</Name>
 		<Description>A simple dither effect which alternating increases and decreases brightness of each pixel.</Description>
 		<Author>Stefan Moebius</Author>
-		<Url>https://github.com/codeprof/Pinta-Plugins/DitherEffect</Url>
+		<Url>https://github.com/codeprof/Pinta-Plugins</Url>
 		<Name locale="de">Dither-Effekt</Name>
 		<Description locale="de">Ein einfacher Dithereffekt, der abwechselnd die Helligkeit für jedes Pixel erhöht oder erniedrigt.</Description>
 
