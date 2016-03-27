@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{AA804EC2-901F-11D3-BF4B-00C0AFB9CF77}") = "BrushCollectionAddin", "BrushCollectionAddin\BrushCollectionAddin.csproj", "{AAFACBBC-2D67-1F9A-BFD7-75A5B3D58699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFACBBC-2D67-1F9A-BFD7-75A5B3D58699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFACBBC-2D67-1F9A-BFD7-75A5B3D58699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFACBBC-2D67-1F9A-BFD7-75A5B3D58699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFACBBC-2D67-1F9A-BFD7-75A5B3D58699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BrushCollection\BrushCollectionAddin.csproj
+	EndGlobalSection
+EndGlobal

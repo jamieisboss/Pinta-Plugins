@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Addin id="BrushCollection" version="1.0.0" category="Brushes">
+	<!-- This is the information shown in the add-in manager, with translations -->
+	<Header>
+		<Name>Brush Collection</Name>
+		<Description>A collection of additional brushes for pinta. It contains brushes to blur, sharpen, inteligently erase and tone the image.</Description>
+		<Author>Stefan Moebius</Author>
+		<Url>https://github.com/codeprof/Pinta-Plugins/BrushCollection</Url>
+		<Name locale="de">Brush Sammplung</Name>
+		<Description locale="de">Eine sammlung zusätzlicher Brushes für Pinta. Sie beinhaltet Brushes zur verwaschen, schärfen, intelligentem löschen und einfärben von Bildern</Description>
+
+	</Header>
+	<!-- This is technical info for Pinta to identify the add-in. -->
+	<Dependencies>
+		<Addin id="Pinta" version="1.7" />
+	</Dependencies>
+	<!-- These are strings used in the add-in and their translations. 
+	Note that some of the strings might be in Pinta from before, especially effect submenu names,
+	and should be translated the same way, so that we don't end up with redundant submenus.-->
+	<Localizer type="StringTable">
+		<Locale id="de">
+			<Msg id="Blur" str="Verwaschen" />		
+			<Msg id="Blur alternative" str="Verwaschen alternativ" />
+			<Msg id="Blur alternative 2" str="Verwaschen alternativ 2" />
+			<Msg id="Inteligent erase" str="Intelligentes löschen" />
+			<Msg id="Leaf" str="Blatt" />
+			<Msg id="Sharpen" str="Schärfen" />	
+			<Msg id="Smooth replace" str="Weiches ersetzen" />
+			<Msg id="UV Paint" str="Farbton ersetzen" />	
+		</Locale>
+	</Localizer>
+</Addin>
