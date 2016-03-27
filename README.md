@@ -1,6 +1,9 @@
 # Pinta Plugins
 
-A collection of pinta plugins
+A collection of pinta plugins:
+- a dither effect
+- effects to manipulate alpha channel of images
+- brushes collection
 
 ##Bugs
 
