@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Addin id="AlphaAdjustmentEffects" version="1.0.0" category="Effects">
+	<!-- This is the information shown in the add-in manager, with translations -->
+	<Header>
+		<Name>Alpha Adjustment Effects</Name>
+		<Description>A collection of simple effects to manipulate the alpha channel.</Description>
+		<Author>Stefan Moebius</Author>
+		<Url>https://github.com/codeprof/Pinta-Plugins/AlphaAdjustmentEffects</Url>
+		<Name locale="de">Alpha Adjustment Effekte</Name>
+		<Description locale="de">Eine Sammlung einfacher Effekte zur Manipulation des Alphakanals.</Description>
+
+	</Header>
+	<!-- This is technical info for Pinta to identify the add-in. -->
+	<Dependencies>
+		<Addin id="Pinta" version="1.7" />
+	</Dependencies>
+	<!-- These are strings used in the add-in and their translations. 
+	Note that some of the strings might be in Pinta from before, especially effect submenu names,
+	and should be translated the same way, so that we don't end up with redundant submenus.-->
+	<Localizer type="StringTable">
+		<Locale id="de">
+			<Msg id="Alpha Noise" str="Rauschen zum Alphakanal hinzufügen" />
+			<Msg id="Gray to alpha" str="Grauwerte zu Alphakanal" />
+			<Msg id="Alpha to gray" str="Alphakanal zu Grauwerte" />								
+		</Locale>
+	</Localizer>
+</Addin>
