@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Addin id="DitherEffect" version="1.0.0" category="Effects">
+	<!-- This is the information shown in the add-in manager, with translations -->
+	<Header>
+		<Name>Dither Effect</Name>
+		<Description>A simple dither effect which alternating increases and decreases brightness of each pixel.</Description>
+		<Author>Stefan Moebius</Author>
+		<Url>https://github.com/codeprof/Pinta-Plugins/DitherEffect</Url>
+		<Name locale="de">Dither-Effekt</Name>
+		<Description locale="de">Ein einfacher Dithereffekt, der abwechselnd die Helligkeit für jedes Pixel erhöht oder erniedrigt.</Description>
+
+	</Header>
+	<!-- This is technical info for Pinta to identify the add-in. -->
+	<Dependencies>
+		<Addin id="Pinta" version="1.7" />
+	</Dependencies>
+	<!-- These are strings used in the add-in and their translations. 
+	Note that some of the strings might be in Pinta from before, especially effect submenu names,
+	and should be translated the same way, so that we don't end up with redundant submenus.-->
+	<Localizer type="StringTable">
+		<Locale id="de">
+			<Msg id="Dither Effect" str="Dither-Effekt" />
+		</Locale>
+	</Localizer>
+</Addin>
