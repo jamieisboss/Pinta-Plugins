@@ -12,7 +12,7 @@
 	</Header>
 	<!-- This is technical info for Pinta to identify the add-in. -->
 	<Dependencies>
-		<Addin id="Pinta" version="1.7" />
+		<Addin id="Pinta" version="1.6" />
 	</Dependencies>
 	<!-- These are strings used in the add-in and their translations. 
 	Note that some of the strings might be in Pinta from before, especially effect submenu names,
